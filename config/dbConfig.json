@@ -1,0 +1,7 @@
+{
+    "username": "dbadmin",
+    "password": "dbadmin1",
+    "host": "ds157853.mlab.com",
+    "port": 57853,
+    "dbName": "workshop-test2"
+}
