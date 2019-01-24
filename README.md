@@ -4,7 +4,7 @@ Node.js Express example with connection to MongoDB + implementation of functions
 
 ### Database as a Service
 
-For database hosting is used [mLab].(https://mlab.com/)
+For database hosting is used [mLab](https://mlab.com/)
 
 ### How to run it?
 
